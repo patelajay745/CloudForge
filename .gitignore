@@ -7,3 +7,4 @@ terraform-dir/crash.log
 terraform-dir/*.log
 terraform-dir/*.swp
 terraform-dir/*.tfplan
+terraform-dir/.terraform.lock.hcl
