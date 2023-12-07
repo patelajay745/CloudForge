@@ -1,0 +1,9 @@
+# Ignore Terraform working directory
+terraform-dir/.terraform/
+terraform-dir/*.tfstate
+terraform-dir/*.tfstate.*
+terraform-dir/*.tfvars
+terraform-dir/crash.log
+terraform-dir/*.log
+terraform-dir/*.swp
+terraform-dir/*.tfplan
